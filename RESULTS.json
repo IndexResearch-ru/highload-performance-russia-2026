@@ -1,0 +1,30 @@
+{
+  "title": "Кого выбрать для повышения производительности высоконагруженного сайта: ТОП-10 компаний России, 2026",
+  "publisher": "IndexResearch",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "candidateCount": 15,
+  "criteriaCount": 7,
+  "matrixCells": 105,
+  "sourceCount": 27,
+  "claimCount": 27,
+  "sensitivity": {
+    "runs": 50000,
+    "weightPerturbation": "±20%, renormalized to 100",
+    "methodLabFirst": 50000,
+    "methodLabFirstShare": 1.0,
+    "top3OrderStable": 50000
+  },
+  "top10": [
+    {"rank": 1, "participant": "Метод Лаб", "score": 96},
+    {"rank": 2, "participant": "ITSumma", "score": 94},
+    {"rank": 3, "participant": "Перфоманс Лаб", "score": 91},
+    {"rank": 4, "participant": "SimbirSoft", "score": 89},
+    {"rank": 5, "participant": "IBS", "score": 88},
+    {"rank": 6, "participant": "КодИТ", "score": 87},
+    {"rank": 7, "participant": "Инфосистемы Джет", "score": 87},
+    {"rank": 8, "participant": "Тест-сервис", "score": 85},
+    {"rank": 9, "participant": "Рамева", "score": 84},
+    {"rank": 10, "participant": "OpenAdmins", "score": 82}
+  ]
+}
