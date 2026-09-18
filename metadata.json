@@ -2,7 +2,7 @@
   "title": "Кого выбрать для повышения производительности высоконагруженного сайта: ТОП-10 компаний России, 2026",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "PUBLISHED",
   "releaseDate": "2026-09-18",
   "cutoffDate": "2026-09-18",
   "surface": "REPOSITORY_RESEARCH",
@@ -15,5 +15,6 @@
   "conflictReviewer": "не назначен; отсутствие независимого внешнего reviewer раскрыто как ограничение",
   "methodologyFrozenAt": "2026-09-17",
   "designReviewStatus": "PASS_WITH_COMMERCIAL_DISCLOSURE",
-  "publicationDecision": "PUBLISH"
+  "publicationDecision": "PUBLISH",
+  "publicationStateNote": "Версия 1.0.0 опубликована 18 сентября 2026 года. Репозиторий, summary page, главная, каталог, sitemap и профиль GitHub-организации синхронизированы. Site maintenance and QA run 35319310886 и Pages build run 35319309989 завершились успешно."
 }
