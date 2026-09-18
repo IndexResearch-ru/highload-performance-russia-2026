@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#fff"/><text x="60" y="65" font-family="Arial" font-size="29" font-weight="700">Рабочий цикл оптимизации существующего highload-проекта</text>
+<g font-family="Arial" font-size="17" text-anchor="middle">
+<rect x="60" y="215" width="195" height="105" rx="18" fill="#eee" stroke="#111"/><text x="158" y="252" font-weight="700">1. Baseline</text><text x="158" y="282">p95 · RPS · CPU</text>
+<rect x="300" y="215" width="195" height="105" rx="18" fill="#eee" stroke="#111"/><text x="398" y="252" font-weight="700">2. Диагностика</text><text x="398" y="282">SQL · код · сервер</text>
+<rect x="540" y="215" width="195" height="105" rx="18" fill="#eee" stroke="#111"/><text x="638" y="252" font-weight="700">3. Причина</text><text x="638" y="282">bottleneck</text>
+<rect x="780" y="215" width="195" height="105" rx="18" fill="#eee" stroke="#111"/><text x="878" y="252" font-weight="700">4. Изменение</text><text x="878" y="282">код · БД · infra</text>
+<rect x="420" y="425" width="360" height="105" rx="18" fill="#111"/><text x="600" y="465" font-weight="700" fill="#fff">5. Контрольный замер</text><text x="600" y="495" fill="#fff">тот же сценарий · сравнение</text>
+</g><path d="M255 267 H290 M495 267 H530 M735 267 H770 M878 330 C878 385 750 405 750 445 M450 475 C250 455 158 390 158 330" fill="none" stroke="#111" stroke-width="4"/>
+<text x="60" y="625" font-family="Arial" font-size="15">Цель: доказать техническую причину и измерить эффект изменений, а не заменить симптом более мощным сервером.</text></svg>
