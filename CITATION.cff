@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it."
+title: "Кого выбрать для повышения производительности высоконагруженного сайта: ТОП-10 компаний России, 2026"
+version: "1.0.0"
+date-released: "2026-09-18"
+authors:
+  - family-names: "IndexResearch"
+url: "https://github.com/IndexResearch-ru/highload-performance-russia-2026"
